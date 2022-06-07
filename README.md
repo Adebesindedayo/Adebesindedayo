@@ -1,6 +1,4 @@
 ### Hi there 👋
-I am Adedayo but call me DEEDEE(DD).
-###Languages: Python, SQL, JavaScipt.
 
 
 
