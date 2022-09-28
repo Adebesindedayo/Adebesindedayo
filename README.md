@@ -14,8 +14,8 @@ I'm a Data Analysis/Data Scientist. I'm passionate about sharing and impacting k
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: She/Her
-- 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Data Analysis/Data Scientist and Backend Engineering.
+- 😊 I’m looking for help with  projects, job opportunities.
+- 💼 Job interests: Data Analysis/Data Scientist.
 - 📫 You can contact me by emailing adebesindeayo@gmail.com.
 
 ---
