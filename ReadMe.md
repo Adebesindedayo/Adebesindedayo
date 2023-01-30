@@ -36,3 +36,42 @@ I am  a Data Professional with interest in Data Analysis,Data Science and Machin
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=adebesindedayo&show_icons=true&include_all_commits=true&hide_border=true" alt="Adedayo's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adebesindedayo&langs_count=8&layout=compact&hide_border=true" alt="Adedayo's GitHub stats" /> |
 | ------------- | ------------- |
+
+
+<h2>My Personal Project Collection</h2>
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>☀️ Projects</b></td>
+      <td><b>💬 Description</b></td>
+    </tr>
+  </thead>
+  <tbody>
+     <tr>
+      <td><a href=</b></a></td>
+      <td> </td>
+    </tr>
+    <tr>
+    <tr>
+      <td></b></a></td>
+      <td>.
+</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td> Hepatitis B Fatality Predictor and Prescriptor help health practitioners with the prediction of a patient having Hepatitis B and prescribe ways to curb these if patient are Liable to die.</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>An NLP Bible App that identify the Part of Speech of each word in the bible,Keyword and a graphical visualization of most common word in each verses.</td>
+    </tr>
+     <tr>
+      <td></td>
+      <td>.</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
