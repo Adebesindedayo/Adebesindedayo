@@ -1,4 +1,4 @@
-# Hello there; welcome 👋🏾
+# Hello there, welcome to my page 👋🏾
  [![Linkedin Badge](https://img.shields.io/badge/-Adedayo-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adebesin-adedayo-a79b63134)](https://www.linkedin.com/in/adebesin-adedayo-a79b63134) 
  
  
