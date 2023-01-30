@@ -8,14 +8,14 @@
  
  
  
-I'm a Data Analysis/Data Scientist. I'm passionate about sharing and impacting knowledge,teaching ,writing.
+I am  a Data Professional with interest in Data Analysis,Data Science and Machine Learning. I'm passionate about learning new technology and tools, impacting knowledge,and writing.
 
 
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: She/Her
 - 😊 I’m looking for help with  projects, job opportunities.
-- 💼 Job interests: Data Analysis/Data Scientist.
+- 💼 Job interests: Data Analysis,Data Scientist.
 - 📫 You can contact me by emailing adebesindeayo@gmail.com.
 
 ---
