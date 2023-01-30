@@ -59,11 +59,11 @@ I am  a Data Professional with interest in Data Analysis,Data Science and Machin
     </tr>
     <tr>
       <td></td>
-      <td> Hepatitis B Fatality Predictor and Prescriptor help health practitioners with the prediction of a patient having Hepatitis B and prescribe ways to curb these if patient are Liable to die.</td>
+      <td> </td>
     </tr>
     <tr>
       <td></td>
-      <td>An NLP Bible App that identify the Part of Speech of each word in the bible,Keyword and a graphical visualization of most common word in each verses.</td>
+      <td></td>
     </tr>
      <tr>
       <td></td>
@@ -72,6 +72,18 @@ I am  a Data Professional with interest in Data Analysis,Data Science and Machin
     <tr>
       <td></td>
       <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td></td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td></td>
+      <td> </td>
     </tr>
   </tbody>
 </table>
