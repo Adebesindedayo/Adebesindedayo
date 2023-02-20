@@ -15,7 +15,7 @@ I am  a Data Professional with interest in Data Analysis,Data Science and Machin
 
 - 😊 Pronouns: She/Her
 - 😊 I’m looking for help with  projects, job opportunities.
-- 💼 Job interests: Data Analysis,Data Scientist.
+- 💼 Job interests: Data Analysis,Data Scientist,Machine Learning Engineer.
 - 📫 You can contact me by emailing adebesindedayo@gmail.com.
 
 ---
