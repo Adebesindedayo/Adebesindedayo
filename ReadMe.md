@@ -21,18 +21,10 @@ I am  a Data Professional with interest in Data Analysis,Data Science and Machin
 <img align="left" alt="Jupyter notebook" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-
 <br />
-
 ### Data Visualization Softwares,Libraries and Tools:
-
-- Microsoft Power Bi
-- Tableau
-- Plotly
-- Python Visualization Libraries(matplotlib,seaborne)
+- Microsoft Power Bi - Tableau - Plotly - Python Visualization Libraries(matplotlib,seaborne)
 ### Operating Systems
-- Windows
-- Linux
-
+- Windows - Linux
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=adebesindedayo&show_icons=true&include_all_commits=true&hide_border=true" alt="Adedayo's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adebesindedayo&langs_count=8&layout=compact&hide_border=true" alt="Adedayo's GitHub stats" /> |
 | ------------- | ------------- |
