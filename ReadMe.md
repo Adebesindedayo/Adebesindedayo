@@ -55,23 +55,23 @@ h2>Projects I'm proud of</h2>
     </tr>
     <tr>
       <td><a href="https://github.com/Adebesindedayo/Build-an-AI-Chatbot-from-Scratch-using-Keras-Sequential-Model"><b>Build-an-AI-Chatbot-from-Scratch-using-Keras-Sequential-Model</b></a></td>
-      <td> Tweets Customer Sentiment Analysis determine the overall opinion on US Airlines. Companies and brands often utilize sentiment analysis to monitor brand reputation across social media platforms or across the web as a whole.</td>
-    </tr>
+      <td> .</td>
+    </tr>Build-an-AI-Chatbot-from-Scratch-using-Keras-Sequential-Model
      <tr>
-      <td><a href="https://github.com/Adebesindedayo/Loan-Default-Prediction-Project-using-Explainable-AI-ML-Models"><b>Loan-Default-Prediction-Project-using-Explainable-AI-ML-Models</b></a></td>
+      <td><a href="Build-an-AI-Chatbot-from-Scratch-using-Keras-Sequential-Model"><b>Loan-Default-Prediction-Project-using-Explainable-AI-ML-Models</b></a></td>
       <td> This project aims to predict loan defaults using machine learning models (XGBoost and Random Forest) and then enhance model interpretability using Explainable AI techniques for various stakeholders involved in the loan lending process. The project seeks to clearly understand why the models make certain predictions.</td>
     </tr>
      <tr>
-      <td><a href="https://github.com/Gift-Ojeabulu/Twitter-SentimentAirline-Analysis"><b>Customer support sentiment app!</b></a></td>
-      <td> Tweets Customer Sentiment Analysis determine the overall opinion on US Airlines. Companies and brands often utilize sentiment analysis to monitor brand reputation across social media platforms or across the web as a whole.</td>
+      <td><a href="https://github.com/Adebesindedayo/End-to-End-ML-Model-Monitoring-using-Airflow-and-Docker"><b>End-to-End-ML-Model-Monitoring-using-Airflow-and-Docker </b></a></td>
+      <td> End-to-End-ML-Model-Monitoring-using-Airflow-and-Docker.</td>
     </tr>
      <tr>
-      <td><a href="https://github.com/Gift-Ojeabulu/Twitter-SentimentAirline-Analysis"><b>Customer support sentiment app!</b></a></td>
-      <td> Tweets Customer Sentiment Analysis determine the overall opinion on US Airlines. Companies and brands often utilize sentiment analysis to monitor brand reputation across social media platforms or across the web as a whole.</td>
+      <td><a href="https://github.com/Adebesindedayo/Time-Series-Forecasting-Project-Building-ARIMA-Model-in-Python"><b>Time-Series-Forecasting-Project-Building-ARIMA-Model-in-Python</b></a></td>
+      <td>Time-Series-Forecasting-Project-Building-ARIMA-Model-in-Python.</td>
     </tr>
      <tr>
-      <td><a href="https://github.com/Gift-Ojeabulu/Twitter-SentimentAirline-Analysis"><b>Customer support sentiment app!</b></a></td>
-      <td> Tweets Customer Sentiment Analysis determine the overall opinion on US Airlines. Companies and brands often utilize sentiment analysis to monitor brand reputation across social media platforms or across the web as a whole.</td>
+      <td><a href="https://github.com/Adebesindedayo/NLP-Project-for-Multi-Class-Text-Classification-using-BERT-Model"><b>NLP-Project-for-Multi-Class-Text-Classification-using-BERT-Model</b></a></td>
+      <td> NLP-Project-for-Multi-Class-Text-Classification-using-BERT-Model</td>
     </tr>
 
   </tbody>
