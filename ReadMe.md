@@ -1,6 +1,7 @@
 ### Hello there, welcome 👋🏾👋🏾👋🏾Good to have you here 😊😊😊
  [![Linkedin Badge](https://img.shields.io/badge/-Adedayo-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adebesin-adedayo-a79b63134)](https://www.linkedin.com/in/adebesin-adedayo-a79b63134)
 I am  a Data Professional with interest in Data Analysis,Data Science and Machine Learning. I'm passionate about learning new technology and tools, impacting knowledge,and writing.
+
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: She/Her
@@ -8,6 +9,7 @@ I am  a Data Professional with interest in Data Analysis,Data Science and Machin
 - 💼 Job interests: Data Analysis,Data Scientist,Machine Learning Engineer.
 - 📫 You can contact me by emailing adebesindedayo@gmail.com.
 ### Languages,Tools and Framework:
+<br>
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="Sckitlearn" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" />
 <img align="left" alt="Flask" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" />
