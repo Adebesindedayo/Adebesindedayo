@@ -56,8 +56,8 @@ Microsoft Power Bi,Tableau ,Plotly,Python Visualization Libraries(matplotlib,sea
     </tr>
     <tr>
       <td><a href="https://github.com/Adebesindedayo/Build-an-AI-Chatbot-from-Scratch-using-Keras-Sequential-Model"><b>Build-an-AI-Chatbot-from-Scratch-using-Keras-Sequential-Model</b></a></td>
-      <td> .</td>
-    </tr>Build-an-AI-Chatbot-from-Scratch-using-Keras-Sequential-Model
+      <td>Build-an-AI-Chatbot-from-Scratch-using-Keras-Sequential-Model.</td>
+    </tr>
      <tr>
       <td><a href="Build-an-AI-Chatbot-from-Scratch-using-Keras-Sequential-Model"><b>Loan-Default-Prediction-Project-using-Explainable-AI-ML-Models</b></a></td>
       <td> This project aims to predict loan defaults using machine learning models (XGBoost and Random Forest) and then enhance model interpretability using Explainable AI techniques for various stakeholders involved in the loan lending process. The project seeks to clearly understand why the models make certain predictions.</td>
