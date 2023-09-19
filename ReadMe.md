@@ -33,7 +33,7 @@ Microsoft Power Bi,Tableau ,Plotly,Python Visualization Libraries(matplotlib,sea
   <tbody>
      <tr>
       <td><a</b></a></td>
-      <td> </td>
+      <td> Covid-19 Real-time Surveillance System  monitor COVID over time, detects changes in COVID occurrence (e.g., outbreaks), determines risk factors for COVID and populations at greatest risk so that appropriate action can be taken to either prevent or stop further spread of COVID.</td>
     </tr>
     <tr>
     <tr>
