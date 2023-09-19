@@ -22,7 +22,7 @@ I am  a Data Professional with interest in Data Analysis,Data Science and Machin
 ### Data Visualization Softwares,Libraries:
 Microsoft Power Bi,Tableau ,Plotly,Python Visualization Libraries(matplotlib,seaborne)
 
-h2>Projects I'm proud of</h2>
+<h2>Projects I'm proud of</h2>
 <table>
   <thead align="center">
     <tr border: none;>
