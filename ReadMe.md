@@ -28,6 +28,11 @@ Developer Tools: Git, Docker, Google Cloud Platform, VS Code,  Jupyter Lab
 
 Libraries: Scikit-Learn, NLTK, NumPy, Pandas, Gensim, Matplotlib, Seaborn, Hugging Face
 
+
+### 📝Writing
+* [medium](https://medium.com/@adebesindedayo) 
+* [blog](http://thecontentfarm.net/)
+
 <h2>Personal Projects</h2>
 <table>
   <thead align="center">
