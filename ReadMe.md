@@ -78,11 +78,12 @@ h2>Projects I'm proud of</h2>
       <td> Machine Learning project for Retail Price Optimization</td>
     </tr>
  <tr>
-      <td><a href="https://github.com/Adebesindedayo/NLP-Project-for-Multi-Class-Text-Classification-using-BERT-Model"><b>NLP-Project-for-Multi-Class-Text-Classification-using-BERT-Model</b></a></td>
-      <td> NLP-Project-for-Multi-Class-Text-Classification-using-BERT-Model</td>
+      <td><a href="https://github.com/Adebesindedayo/Machine-Learning-project-for-Retail-Price-Optimization"><b>Machine-Learning-project-for-Retail-Price-Optimization
+</b></a></td>
+      <td> Machine-Learning-project-for-Retail-Price-Optimization</td>
     </tr>
  <tr>
-      <td><a href="https://github.com/Adebesindedayo/NLP-Project-for-Multi-Class-Text-Classification-using-BERT-Model"><b>NLP-Project-for-Multi-Class-Text-Classification-using-BERT-Model</b></a></td>
+      <td><a href="https://github.com/Adebesindedayo/Chatbot-with-RASA-NLU-Model-and-Python"><b>Chatbot with RASA NLU Model and Python</b></a></td>
       <td> NLP-Project-for-Multi-Class-Text-Classification-using-BERT-Model</td>
     </tr>
 
