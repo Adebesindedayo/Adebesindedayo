@@ -17,8 +17,12 @@ I am  a Data Professional with interest in Data Analysis,Data Science and Machin
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <br />
 
-### Data Visualization Softwares,Libraries:
-Microsoft Excel,Microsoft Power Bi,Tableau ,Plotly,Python Visualization Libraries(matplotlib,seaborne,plotly)
+### Technical Skills
+Data Visualization Softwares,Libraries: Microsoft Excel,Microsoft Power Bi,Tableau ,Plotly,Python Visualization Libraries(matplotlib,seaborne,plotly)
+Languages: Python
+Frameworks: Tensorflow, Keras, Pytorch, Matplotlib, Seaborn
+Developer Tools: Git, Docker, Google Cloud Platform, VS Code,  Jupyter Lab
+Libraries: Scikit-Learn, NLTK, NumPy, Pandas, Gensim, Matplotlib, Seaborn, Hugging Face
 
 <h2>Personal Projects</h2>
 <table>
