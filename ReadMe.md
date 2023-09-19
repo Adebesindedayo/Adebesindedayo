@@ -73,6 +73,18 @@ h2>Projects I'm proud of</h2>
       <td><a href="https://github.com/Adebesindedayo/NLP-Project-for-Multi-Class-Text-Classification-using-BERT-Model"><b>NLP-Project-for-Multi-Class-Text-Classification-using-BERT-Model</b></a></td>
       <td> NLP-Project-for-Multi-Class-Text-Classification-using-BERT-Model</td>
     </tr>
+ <tr>
+      <td><a href="https://github.com/Adebesindedayo/Machine-Learning-project-for-Retail-Price-Optimization"><b>Machine Learning project for Retail Price Optimization</b></a></td>
+      <td> Machine Learning project for Retail Price Optimization</td>
+    </tr>
+ <tr>
+      <td><a href="https://github.com/Adebesindedayo/NLP-Project-for-Multi-Class-Text-Classification-using-BERT-Model"><b>NLP-Project-for-Multi-Class-Text-Classification-using-BERT-Model</b></a></td>
+      <td> NLP-Project-for-Multi-Class-Text-Classification-using-BERT-Model</td>
+    </tr>
+ <tr>
+      <td><a href="https://github.com/Adebesindedayo/NLP-Project-for-Multi-Class-Text-Classification-using-BERT-Model"><b>NLP-Project-for-Multi-Class-Text-Classification-using-BERT-Model</b></a></td>
+      <td> NLP-Project-for-Multi-Class-Text-Classification-using-BERT-Model</td>
+    </tr>
 
   </tbody>
 </table>
