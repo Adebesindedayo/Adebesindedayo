@@ -32,26 +32,26 @@ h2>Projects I'm proud of</h2>
   </thead>
   <tbody>
      <tr>
-      <td><a href="https://github.com/Gift-Ojeabulu/Covid-Surveillance-System"><b>COVID Data App!</b></a></td>
-      <td> Covid-19 Real-time Surveillance System  monitor COVID over time, detects changes in COVID occurrence (e.g., outbreaks), determines risk factors for COVID and populations at greatest risk so that appropriate action can be taken to either prevent or stop further spread of COVID.</td>
+      <td><a href="https://github.com/Adebesindedayo/Text-Classification-with-Transformers-RoBERTa-and-XLNet-Model"><b>Text-Classification</b></a></td>
+      <td> Text-Classification-with-Transformers-RoBERTa-and-XLNet-Model.</td>
     </tr>
     <tr>
     <tr>
-      <td><a href="https://github.com/Gift-Ojeabulu/Movie-Recommendation-System"><b>Movie Recommender App!</b></a></td>
-      <td>A Content-based movie recommendation system that recommends movies to a user by using the similarity of movies. This recommender system recommends movies based on their description or features. This application shows viewers' sentiment(Negative/Positive), the ratings, about the movie and gives a detailed description of the characters in the movie(Date of Birth), Biography and so on.
+      <td><a href="https://github.com/Adebesindedayo/Build-CICD-Pipeline-for-Machine-Learning-Projects-using-Jenkins"><b> Machine learning pipeline with Jenkins</b></a></td>
+      <td>Build-CICD-Pipeline-for-Machine-Learning-Projects-using-Jenkins 
 </td>
     </tr>
     <tr>
-      <td><a href="https://github.com/Gift-Ojeabulu/Hepatitis-predmedical-App"><b>Hepatitis Medical App!</b></a></td>
-      <td> Hepatitis B Fatality Predictor and Prescription help health practitioners with the prediction of a patient having Hepatitis B and prescribe ways to curb these if the patient is Liable to die.</td>
+      <td><a href="https://github.com/Adebesindedayo/Image-Classification-using-CNN-Model-with-PyTorch"><b>Image Classification</b></a></td>
+      <td> Image-Classification-using-CNN-Model-with-PyTorch .</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/Gift-Ojeabulu/BibleText-Analysis"><b>THE HolyBible Text Analysis App!</b></a></td>
-      <td>An NLP Bible App that identifies the Part of Speech of each word in the bible, Keyword and graphical visualization of the most common word in each verse.</td>
+      <td><a href="https://github.com/Adebesindedayo/End-to-End-Speech-Emotion-Recognition-Project-using-ANN"><b>Speech Emotion</b></a></td>
+      <td>End-to-End-Speech-Emotion-Recognition-Project-using-ANN .</td>
     </tr>
      <tr>
-      <td><a href="https://github.com/Gift-Ojeabulu/Barbershop"><b>Barber's Shop!</b></a></td>
-      <td> The goal of the project was to make locating a barbing salon in the subject area (Orimerunmu, Ogun state) so easy and to reduce unnecessary queuing/waiting time of customers in the barbing salon by building a barber's website for the presumed barber called Oscar. I used Oscar because that is my middle name.</td>
+      <td><a href="https://github.com/Adebesindedayo/Medical-Image-Segmentation-Deep-Learning-Project"><b>Medical Image Segmentation</b></a></td>
+      <td> Medical Image Segmentation.</td>
     </tr>
     <tr>
       <td><a href="https://github.com/Gift-Ojeabulu/Twitter-SentimentAirline-Analysis"><b>Customer support sentiment app!</b></a></td>
