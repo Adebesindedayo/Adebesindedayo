@@ -84,6 +84,11 @@ Microsoft Power Bi,Tableau ,Plotly,Python Visualization Libraries(matplotlib,sea
       <td> NLP-Project-for-Multi-Class-Text-Classification-using-BERT-Model</td>
     </tr>
 
+ <tr>
+      <td><a href="https://github.com/Adebesindedayo/Customer-Churn-Prediction-Model"><b>Customer Churn Prediction</b></a></td>
+      <td> Customer Churn Prediction</td>
+    </tr>
+
   </tbody>
 </table>
 
