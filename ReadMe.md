@@ -78,11 +78,7 @@ Microsoft Power Bi,Tableau ,Plotly,Python Visualization Libraries(matplotlib,sea
       <td><a href="https://github.com/Adebesindedayo/Machine-Learning-project-for-Retail-Price-Optimization"><b>Machine Learning project for Retail Price Optimization</b></a></td>
       <td> Machine Learning project for Retail Price Optimization</td>
     </tr>
- <tr>
-      <td><a href="https://github.com/Adebesindedayo/Machine-Learning-project-for-Retail-Price-Optimization"><b>Machine-Learning-project-for-Retail-Price-Optimization
-</b></a></td>
-      <td> Machine-Learning-project-for-Retail-Price-Optimization</td>
-    </tr>
+
  <tr>
       <td><a href="https://github.com/Adebesindedayo/Chatbot-with-RASA-NLU-Model-and-Python"><b>Chatbot with RASA NLU Model and Python</b></a></td>
       <td> NLP-Project-for-Multi-Class-Text-Classification-using-BERT-Model</td>
