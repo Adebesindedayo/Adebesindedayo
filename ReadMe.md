@@ -22,7 +22,7 @@ I am  a Data Professional with interest in Data Analysis,Data Science and Machin
 ### Data Visualization Softwares,Libraries:
 Microsoft Power Bi,Tableau ,Plotly,Python Visualization Libraries(matplotlib,seaborne)
 
-<h2>Personal Projects</h2>
+h2>Projects I'm proud of</h2>
 <table>
   <thead align="center">
     <tr border: none;>
@@ -32,35 +32,33 @@ Microsoft Power Bi,Tableau ,Plotly,Python Visualization Libraries(matplotlib,sea
   </thead>
   <tbody>
      <tr>
-      <td><a</b></a></td>
+      <td><a href="https://github.com/Gift-Ojeabulu/Covid-Surveillance-System"><b>COVID Data App!</b></a></td>
       <td> Covid-19 Real-time Surveillance System  monitor COVID over time, detects changes in COVID occurrence (e.g., outbreaks), determines risk factors for COVID and populations at greatest risk so that appropriate action can be taken to either prevent or stop further spread of COVID.</td>
     </tr>
     <tr>
     <tr>
-      <td></b></a></td>
-      <td>.
+      <td><a href="https://github.com/Gift-Ojeabulu/Movie-Recommendation-System"><b>Movie Recommender App!</b></a></td>
+      <td>A Content-based movie recommendation system that recommends movies to a user by using the similarity of movies. This recommender system recommends movies based on their description or features. This application shows viewers' sentiment(Negative/Positive), the ratings, about the movie and gives a detailed description of the characters in the movie(Date of Birth), Biography and so on.
 </td>
     </tr>
     <tr>
-      <td></b></a></td>
-      <td> .</td>
+      <td><a href="https://github.com/Gift-Ojeabulu/Hepatitis-predmedical-App"><b>Hepatitis Medical App!</b></a></td>
+      <td> Hepatitis B Fatality Predictor and Prescription help health practitioners with the prediction of a patient having Hepatitis B and prescribe ways to curb these if the patient is Liable to die.</td>
     </tr>
     <tr>
-      <td><"><b></b></a></td>
-      <td>.</td>
+      <td><a href="https://github.com/Gift-Ojeabulu/BibleText-Analysis"><b>THE HolyBible Text Analysis App!</b></a></td>
+      <td>An NLP Bible App that identifies the Part of Speech of each word in the bible, Keyword and graphical visualization of the most common word in each verse.</td>
     </tr>
      <tr>
-      <td><a href=><b></b></a></td>
-      <td> .</td>
+      <td><a href="https://github.com/Gift-Ojeabulu/Barbershop"><b>Barber's Shop!</b></a></td>
+      <td> The goal of the project was to make locating a barbing salon in the subject area (Orimerunmu, Ogun state) so easy and to reduce unnecessary queuing/waiting time of customers in the barbing salon by building a barber's website for the presumed barber called Oscar. I used Oscar because that is my middle name.</td>
     </tr>
     <tr>
-      <td></b></a></td>
-      <td></td>
+      <td><a href="https://github.com/Gift-Ojeabulu/Twitter-SentimentAirline-Analysis"><b>Customer support sentiment app!</b></a></td>
+      <td> Tweets Customer Sentiment Analysis determine the overall opinion on US Airlines. Companies and brands often utilize sentiment analysis to monitor brand reputation across social media platforms or across the web as a whole..</td>
     </tr>
   </tbody>
 </table>
-
-
 
   
 
