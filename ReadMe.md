@@ -1,8 +1,6 @@
 ### Hello there, welcome 👋🏾👋🏾👋🏾Good to have you here 😊😊😊
  [![Linkedin Badge](https://img.shields.io/badge/-Adedayo-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adebesin-adedayo-a79b63134)](https://www.linkedin.com/in/adebesin-adedayo-a79b63134)
- 
 I am  a Data Professional with interest in Data Analysis,Data Science and Machine Learning. I'm passionate about learning new technology and tools, impacting knowledge,and writing.
-
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: She/Her
@@ -20,14 +18,14 @@ I am  a Data Professional with interest in Data Analysis,Data Science and Machin
 <br />
 
 ### Data Visualization Softwares,Libraries:
-Microsoft Power Bi,Tableau ,Plotly,Python Visualization Libraries(matplotlib,seaborne)
+Microsoft Excel,Microsoft Power Bi,Tableau ,Plotly,Python Visualization Libraries(matplotlib,seaborne,plotly)
 
 <h2>Personal Projects</h2>
 <table>
   <thead align="center">
     <tr border: none;>
       <td><b>☀️ Projects</b></td>
-      <td><b>💬 Description</b></td>
+      <td><b>💬 Description of the projects</b></td>
     </tr>
   </thead>
   
