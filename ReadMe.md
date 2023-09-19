@@ -10,7 +10,6 @@ I am  a Data Professional with interest in Data Analysis,Data Science and Machin
 - 💼 Job interests: Data Analysis,Data Scientist,Machine Learning Engineer.
 - 📫 You can contact me by emailing adebesindedayo@gmail.com.
 
-
 ### Technical Skills
 Data Visualization Softwares and Libraries : Microsoft Excel,Microsoft Power Bi,Tableau ,Plotly,Python Visualization Libraries(matplotlib,seaborne,plotly)
 
