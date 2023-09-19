@@ -22,7 +22,7 @@ I am  a Data Professional with interest in Data Analysis,Data Science and Machin
 ### Data Visualization Softwares,Libraries:
 Microsoft Power Bi,Tableau ,Plotly,Python Visualization Libraries(matplotlib,seaborne)
 
-<h2>Projects I'm proud of</h2>
+<h2>Personal Projects</h2>
 <table>
   <thead align="center">
     <tr border: none;>
@@ -30,6 +30,7 @@ Microsoft Power Bi,Tableau ,Plotly,Python Visualization Libraries(matplotlib,sea
       <td><b>💬 Description</b></td>
     </tr>
   </thead>
+  
   <tbody>
      <tr>
       <td><a href="https://github.com/Adebesindedayo/Text-Classification-with-Transformers-RoBERTa-and-XLNet-Model"><b>Text-Classification</b></a></td>
