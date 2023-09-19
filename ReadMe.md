@@ -18,10 +18,14 @@ I am  a Data Professional with interest in Data Analysis,Data Science and Machin
 <br />
 
 ### Technical Skills
-Data Visualization Softwares,Libraries: Microsoft Excel,Microsoft Power Bi,Tableau ,Plotly,Python Visualization Libraries(matplotlib,seaborne,plotly)
+Data Visualization Softwares and Libraries : Microsoft Excel,Microsoft Power Bi,Tableau ,Plotly,Python Visualization Libraries(matplotlib,seaborne,plotly)
+
 Languages: Python
+
 Frameworks: Tensorflow, Keras, Pytorch, Matplotlib, Seaborn
+
 Developer Tools: Git, Docker, Google Cloud Platform, VS Code,  Jupyter Lab
+
 Libraries: Scikit-Learn, NLTK, NumPy, Pandas, Gensim, Matplotlib, Seaborn, Hugging Face
 
 <h2>Personal Projects</h2>
