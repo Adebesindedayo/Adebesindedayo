@@ -32,8 +32,7 @@ I am  a Data Professional with interest in Data Analysis,Data Science and Machin
 
 
 ### 📝Writing
-* [medium](https://medium.com/@adebesindedayo) 
-* [blog](http://thecontentfarm.net/)
+* [medium](https://medium.com/@adebesindedayo) * [personal blog](http://thecontentfarm.net/)
 
 <h2>Personal Projects</h2>
 <table>
