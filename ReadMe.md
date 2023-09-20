@@ -1,5 +1,4 @@
 ### Hello there, welcome 👋🏾👋🏾👋🏾Good to have you here 😊😊😊
-...
  [![Linkedin Badge](https://img.shields.io/badge/-Adedayo-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adebesin-adedayo-a79b63134)](https://www.linkedin.com/in/adebesin-adedayo-a79b63134)
 I am  a Data Professional with interest in Data Analysis,Data Science and Machine Learning. I'm passionate about learning new technology and tools, impacting knowledge,and writing.
 
@@ -10,6 +9,9 @@ I am  a Data Professional with interest in Data Analysis,Data Science and Machin
 - 😊 I’m looking for help with  projects, job opportunities.
 - 💼 Job interests: Data Analysis,Data Scientist,Machine Learning Engineer.
   ### Let's Connect
+
+<p align='center'>
+
   <a href="https://www.linkedin.com/in/adebesin-adedayo-a79b63134">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>&nbsp;&nbsp;
@@ -28,6 +30,7 @@ Frameworks:flask, Tensorflow, Keras, Pytorch, Matplotlib, Seaborn
 Developer Tools: Git, Docker, Google Cloud Platform, VS Code,  Jupyter Lab,Jupyter Notebook
 
 Libraries: Scikit-Learn, NLTK, NumPy, Pandas, Gensim, Matplotlib, Seaborn, Hugging Face
+
 
 ### 📝Writing
 * [medium](https://medium.com/@adebesindedayo) 
