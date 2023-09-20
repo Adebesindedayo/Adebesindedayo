@@ -90,7 +90,7 @@ I am  a Data Professional with interest in Data Analysis,Data Science and Machin
     </tr>
  <tr>
       <td><a href="https://github.com/Adebesindedayo/Customer-Churn-Prediction-Model"><b>Customer Churn Prediction</b></a></td>
-      <td> Customer Churn Prediction</td>
+      <td> ### Churned Customers are those who have decided to end their relationship with their existing company.XYZ is a service-providing company that provides customers with a one-year subscription plan for their product. The company wants to know if the customers will renew the subscription for the coming year or not.In this project, Decision tree classifier and ensemble model on the given dataset.</td>
     </tr>
   </tbody>
 </table>
