@@ -8,7 +8,17 @@ I am  a Data Professional with interest in Data Analysis,Data Science and Machin
 - 😊 Pronouns: She/Her
 - 😊 I’m looking for help with  projects, job opportunities.
 - 💼 Job interests: Data Analysis,Data Scientist,Machine Learning Engineer.
-- 📫 You can contact me by emailing adebesindedayo@gmail.com.
+  ### Let's Connect
+
+<p align='center'>
+
+  <a href="https://www.linkedin.com/in/adebesin-adedayo-a79b63134">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>&nbsp;&nbsp;
+<a href="mailto:adebesindedayo@gmail.com">
+  <img src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+</a>&nbsp;&nbsp;
+  
 
 ### Technical Skills
 Data Visualization Softwares and Libraries : Microsoft Excel,Microsoft Power Bi,Tableau ,Plotly,Python Visualization Libraries(matplotlib,seaborne,plotly)
