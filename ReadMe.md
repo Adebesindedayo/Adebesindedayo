@@ -11,7 +11,6 @@ I am  a Data Professional with interest in Data Analysis,Data Science and Machin
 ### Let's Connect
 
 <p align='center'>
-
   <a href="https://www.linkedin.com/in/adebesin-adedayo-a79b63134">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>&nbsp;&nbsp;
@@ -29,7 +28,7 @@ I am  a Data Professional with interest in Data Analysis,Data Science and Machin
 
 **Developer Tools**: Git, Docker, Google Cloud Platform, VS Code,  Jupyter Lab,Jupyter Notebook
 
-**Libraries**: Scikit-Learn, NLTK, NumPy, Pandas, Gensim, Matplotlib, Seaborn, Hugging Face
+**Libraries**:  Scikit-Learn, NLTK, NumPy, Pandas, Gensim, Matplotlib, Seaborn, Hugging Face
 
 
 ### 📝Writing
