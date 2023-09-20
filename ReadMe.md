@@ -17,7 +17,6 @@ I am  a Data Professional with interest in Data Analysis,Data Science and Machin
 <a href="mailto:adebesindedayo@gmail.com">
   <img src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
 </a>&nbsp;&nbsp;
-  
 
 ### Technical Skills
 **Data Visualization Softwares and Libraries**: Microsoft Excel,Microsoft Power Bi,Tableau ,Plotly,Python Visualization Libraries(matplotlib,seaborne,plotly)
