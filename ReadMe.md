@@ -1,15 +1,11 @@
 ### Hello there, welcome 👋🏾👋🏾👋🏾Good to have you here 😊😊😊
  [![Linkedin Badge](https://img.shields.io/badge/-Adedayo-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adebesin-adedayo-a79b63134)](https://www.linkedin.com/in/adebesin-adedayo-a79b63134)
 I am  a Data Professional with interest in Data Analysis,Data Science and Machine Learning. I'm passionate about learning new technology and tools, impacting knowledge,and writing.
-
-
 **Here's a quick summary about me**:
-
 - 😊 Pronouns: She/Her
 - 😊 I’m looking for help with  projects, job opportunities.
 - 💼 Job interests: Data Analysis,Data Scientist,Machine Learning Engineer.
 ### Let's Connect
-
 <p align='center'>
   <a href="https://www.linkedin.com/in/adebesin-adedayo-a79b63134">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -20,20 +16,13 @@ I am  a Data Professional with interest in Data Analysis,Data Science and Machin
 
 ### Technical Skills
 **Data Visualization Softwares and Libraries**: Microsoft Excel,Microsoft Power Bi,Tableau ,Plotly,Python Visualization Libraries(matplotlib,seaborne,plotly)
-
 **Languages**: Python,SQL
-
 **Frameworks**:flask, Tensorflow, Keras, Pytorch, Matplotlib, Seaborn
-
 **Developer Tools**: Git, Docker, Google Cloud Platform, VS Code,  Jupyter Lab,Jupyter Notebook
-
 **Libraries**:  Scikit-Learn, NLTK, NumPy, Pandas, Gensim, Matplotlib, Seaborn, Hugging Face
-
-
 ### 📝Writing
 * [medium](https://medium.com/@adebesindedayo)  
 * [personal blog](http://thecontentfarm.net/)
-
 <h2>Personal Projects</h2>
 <table>
   <thead align="center">
@@ -42,7 +31,6 @@ I am  a Data Professional with interest in Data Analysis,Data Science and Machin
       <td><b>💬 Description of the projects</b></td>
     </tr>
   </thead>
-  
   <tbody>
      <tr>
       <td><a href="https://github.com/Adebesindedayo/Text-Classification-with-Transformers-RoBERTa-and-XLNet-Model"><b>Text-Classification</b></a></td>
@@ -103,7 +91,4 @@ I am  a Data Professional with interest in Data Analysis,Data Science and Machin
 
   </tbody>
 </table>
-
-  
-
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=adebesindedayo&show_icons=true&include_all_commits=true&hide_border=true" alt="Adedayo's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adebesindedayo&langs_count=8&layout=compact&hide_border=true" alt="Adedayo's GitHub stats"/> 
