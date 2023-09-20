@@ -78,17 +78,14 @@ I am  a Data Professional with interest in Data Analysis,Data Science and Machin
       <td><a href="https://github.com/Adebesindedayo/Machine-Learning-project-for-Retail-Price-Optimization"><b>Machine Learning project for Retail Price Optimization</b></a></td>
       <td> Machine Learning project for Retail Price Optimization</td>
     </tr>
-
  <tr>
       <td><a href="https://github.com/Adebesindedayo/Chatbot-with-RASA-NLU-Model-and-Python"><b>Chatbot with RASA NLU Model and Python</b></a></td>
       <td> NLP-Project-for-Multi-Class-Text-Classification-using-BERT-Model</td>
     </tr>
-
  <tr>
       <td><a href="https://github.com/Adebesindedayo/Customer-Churn-Prediction-Model"><b>Customer Churn Prediction</b></a></td>
       <td> Customer Churn Prediction</td>
     </tr>
-
   </tbody>
 </table>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=adebesindedayo&show_icons=true&include_all_commits=true&hide_border=true" alt="Adedayo's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adebesindedayo&langs_count=8&layout=compact&hide_border=true" alt="Adedayo's GitHub stats"/> 
