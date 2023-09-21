@@ -65,7 +65,7 @@ I am  a Data Professional with interest in Data Analysis,Data Science and Machin
       <td>Build-an-AI-Chatbot-from-Scratch-using-Keras-Sequential-Model.</td>
     </tr>
      <tr>
-      <td><a href="Build-an-AI-Chatbot-from-Scratch-using-Keras-Sequential-Model"><b>Loan-Default-Prediction-Project-using-Explainable-AI-ML-Models</b></a></td>
+      <td><a href="https://github.com/Adebesindedayo/Loan-Default-Prediction-Project-using-Explainable-AI-ML-Models"><b>Loan-Default-Prediction-Project-using-Explainable-AI-ML-Models</b></a></td>
       <td> This project aims to predict loan defaults using machine learning models (XGBoost and Random Forest) and then enhance model interpretability using Explainable AI techniques for various stakeholders involved in the loan lending process. The project seeks to clearly understand why the models make certain predictions.</td>
     </tr>
      <tr>
@@ -90,7 +90,7 @@ I am  a Data Professional with interest in Data Analysis,Data Science and Machin
     </tr>
  <tr>
       <td><a href="https://github.com/Adebesindedayo/Customer-Churn-Prediction-Model"><b>Customer Churn Prediction</b></a></td>
-      <td> ### Churned Customers are those who have decided to end their relationship with their existing company.XYZ is a service-providing company that provides customers with a one-year subscription plan for their product. The company wants to know if the customers will renew the subscription for the coming year or not.In this project, Decision tree classifier and ensemble model on the given dataset.</td>
+      <td>Churned Customers are those who have decided to end their relationship with their existing company.XYZ is a service-providing company that provides customers with a one-year subscription plan for their product. The company wants to know if the customers will renew the subscription for the coming year or not.In this project, Decision tree classifier and ensemble model on the given dataset.</td>
     </tr>
   </tbody>
 </table>
