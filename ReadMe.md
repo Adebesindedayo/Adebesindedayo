@@ -90,8 +90,9 @@ I am  a Data Professional with interest in Data Analysis,Data Science and Machin
     </tr>
  <tr>
       <td><a href="https://github.com/Adebesindedayo/Customer-Churn-Prediction-Model"><b>Customer Churn Prediction</b></a></td>
-      <td>Churned Customers are those who have decided to end their relationship with their existing company.XYZ is a service-providing company that provides customers with a one-year subscription plan for their product. The company wants to know if the customers will renew the subscription for the coming year or not.In this project, Decision tree classifier and ensemble model on the given dataset.</td>
+      <td>Churned Customers are those who have decided to end their relationship with their existing company.XYZ is a service-providing company that provides customers with a one-year subscription plan for their product. The company wants to know if the customers will renew the subscription for the coming year or not.In this project, Decision tree classifier and ensemble model was used for the predictive analysis.</td>
     </tr>
   </tbody>
 </table>
+
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=adebesindedayo&show_icons=true&include_all_commits=true&hide_border=true" alt="Adedayo's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adebesindedayo&langs_count=8&layout=compact&hide_border=true" alt="Adedayo's GitHub stats"/> 
